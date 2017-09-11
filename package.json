@@ -25,6 +25,7 @@
   },
   "dependencies": {
     "babel-polyfill": "^6.23.0",
+    "node-easypost": "^3.0.0-rc.21",
     "proptypes": "^0.14.3",
     "regenerator-runtime": "^0.10.1",
     "source-map-support": "^0.4.6",
